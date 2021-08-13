@@ -1,0 +1,12 @@
+footer {
+  position: relative;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+}
+
+.todo-js-container {
+  min-height: 70vh;
+}
